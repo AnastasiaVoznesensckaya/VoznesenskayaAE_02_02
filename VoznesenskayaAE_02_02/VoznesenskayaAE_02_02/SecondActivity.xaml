@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VoznesenskayaAE_02_02.SecondActivity">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Name="butStyle" TargetType="Button">
+                <Setter Property="CornerRadius" Value="30"/>
+                <Setter Property="BackgroundColor" Value="#22ED8B"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+       
+        <StackLayout Background="#327EB8">
+            <Label Text="Выбор единиц информации" FontSize="24" TextColor="White" FontAttributes="Bold"
+               HorizontalOptions="Center" Margin="10, 20,10,10"></Label>
+            <Entry BackgroundColor="White" Margin="20, 138, 20, 0" HeightRequest="40" Placeholder="Введите число"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Из" TextColor="White" FontSize="18" Margin="20, 8, 0, 8"/>
+                <Label Text="B" TextColor="White" FontSize="18" Margin="175,8,8,0" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Picker Title="Из" WidthRequest="145" BackgroundColor="White" Margin="20, 0,30,0">
+                    <Picker.Items>
+                        <x:String>Байт</x:String>
+                        <x:String>Килобайт</x:String>
+                        <x:String>Мегабайт</x:String>
+                        <x:String>Гигабайт</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Picker Title="Из" WidthRequest="145" BackgroundColor="White" Margin="20, 0,30,0">
+                    <Picker.Items>
+                        <x:String>Байт</x:String>
+                        <x:String>Килобайт</x:String>
+                        <x:String>Мегабайт</x:String>
+                        <x:String>Гигабайт</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+            <Entry BackgroundColor="White" Margin="20, 21, 20, 0" HeightRequest="40" Placeholder="Результат"/>
+            <Button Text="Вычислить" WidthRequest="150" Margin="60, 20" FontSize="18" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

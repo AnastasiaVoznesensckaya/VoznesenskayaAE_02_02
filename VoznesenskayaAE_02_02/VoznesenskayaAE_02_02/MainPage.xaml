@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VoznesenskayaAE_02_02.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Name="butStyle" TargetType="Button">
+                <Setter Property="CornerRadius" Value="30"/>
+                <Setter Property="BackgroundColor" Value="#22ED8B"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout BackgroundColor="#327EB8">
+        <Label Text="Конвертер единиц информации" FontSize="24" TextColor="White" FontAttributes="Bold"
+               HorizontalOptions="Center" Margin="10, 20,10,10"></Label>
+        <Image Source="contract" WidthRequest="250"/>
+        <Entry x:Name="Log" BackgroundColor="White" Margin="60, 20, 60, 0" HeightRequest="40" Placeholder="Логин"/>
+        
+        <Entry x:Name="Pass" BackgroundColor="White" Margin="60, 20, 60, 0" HeightRequest="40" Placeholder="Пароль"/>
+        <Button Text="Начать" WidthRequest="150" Margin="60, 20" FontSize="18" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

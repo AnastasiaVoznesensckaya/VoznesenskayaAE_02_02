@@ -1,0 +1,16 @@
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\bin\Debug\netstandard2.0\VoznesenskayaAE_02_02.deps.json
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\bin\Debug\netstandard2.0\VoznesenskayaAE_02_02.dll
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\bin\Debug\netstandard2.0\ref\VoznesenskayaAE_02_02.dll
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\bin\Debug\netstandard2.0\VoznesenskayaAE_02_02.pdb
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.AssemblyInfoInputs.cache
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.AssemblyInfo.cs
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.csproj.CoreCompileInputs.cache
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.dll
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\ref\VoznesenskayaAE_02_02.dll
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\VoznesenskayaAE_02_02.pdb
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\SecondActivity.xaml.g.cs
+C:\examvoz\VoznesenskayaAE_02_02\VoznesenskayaAE_02_02\obj\Debug\netstandard2.0\ThirdActivity.xaml.g.cs
